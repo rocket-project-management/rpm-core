@@ -1,0 +1,1 @@
+{"version":3,"file":"DatabaseAdapterResponse.js","sourceRoot":"","sources":["../../../../src/DatabaseAdapter/Implementation/DatabaseAdapterResponse.ts"],"names":[],"mappings":";;AAGA,MAAqB,uBAAuB;IAIxC,YAAY,SAAiB,EAAE,OAAiC;QAC5D,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAC3B,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;CACJ;AARD,0CAQC"}

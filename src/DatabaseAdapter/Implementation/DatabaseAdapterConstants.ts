@@ -1,0 +1,1 @@
+export const NO_LIMIT: number = -1;

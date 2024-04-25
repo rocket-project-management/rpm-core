@@ -1,0 +1,20 @@
+# User specific files:
+*.ruser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+.env
+
+# Visual Studio cache/options directory:
+.vs/
+
+# Node tools:
+.ntvs_analysis.dat
+node_modules/
+
+# Visual Studio cache files:
+*.[Cc]ache
+!?*.[Cc]ache/
