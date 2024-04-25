@@ -1,0 +1,1 @@
+{"version":3,"file":"DatabaseOrderCriteria.js","sourceRoot":"","sources":["../../../../src/DatabaseAdapter/Implementation/DatabaseOrderCriteria.ts"],"names":[],"mappings":";;AAGA,MAAqB,qBAAqB;IAItC,YAAY,cAAsB,EAAE,aAA4B;QAC5D,IAAI,CAAC,cAAc,GAAG,cAAc,CAAC;QACrC,IAAI,CAAC,aAAa,GAAG,aAAa,CAAC;IACvC,CAAC;CACJ;AARD,wCAQC"}
